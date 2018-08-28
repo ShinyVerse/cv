@@ -18,7 +18,7 @@ To aid my visual learning I read related books and articles and approach the top
 
 # Soft-Skills #
 
-##Efficient Communicator##
+## Efficient Communicator ##
 
 Determined to understand and compassionate with explanations. A combination of these helps me to approach learning from both angles; obtaining knowledge and passing it on effectively.
 
