@@ -65,6 +65,7 @@ Education
 Interests
 =========
 
+* Web Development
 * Reading
 * Gaming
 * Travelling
