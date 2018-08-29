@@ -41,12 +41,15 @@ Deciding to discover how technology works has been one of the greatest choices I
 ___
 
 **Maker's Academy (August 2018 - present)**
-  16 week Bootcamp
-  
+
+  - 16 week Bootcamp
+
 **Self-Study: Software Development (2016 - continuous)**
+
   Udemy, Treehouse, Freecodecamp, Books, Articles
 
 **University of Bedfordshire (2008 - 2011)**
+
   Television Production BA(Hons), 2.1
 
 #Interests#
