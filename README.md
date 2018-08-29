@@ -24,7 +24,7 @@ Projects
 =========
 
   | Projects                                                    | Description                                  |
-  | ----------------------------------------------------------- |---------------------------------------------:|
+  | ----------------------------------------------------------- |:--------------------------------------------:|
   | [Study Buddy](https://codepen.io/ShinyVerse/pen/WyLVyX )    |      Use of BEM Methodology with react       |
   | [Animal Gallery](https://codepen.io/ShinyVerse/pen/rKvvOj)  |  Interactive image gallery using CSS, HTML   |
   | [Shopping Cart](https://codepen.io/ShinyVerse/pen/QxrbqQ)   | Simple shopping cart using Javascript, CSS   |
