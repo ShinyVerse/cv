@@ -4,7 +4,8 @@ I am an enthusiastic self-taught Front-End Developer, currently a student at Mak
 
 To aid my visual learning I read related books and articles and approach the topics practically with building my own projects to help cement my understandings.
 
-# Tech Skills #
+#Tech Skills#
+***
 
 - Javascript
 - React
@@ -15,7 +16,8 @@ To aid my visual learning I read related books and articles and approach the top
 - HTML
 - Ruby
 
-# Projects #
+#Projects#
+***
 
   | Projects                                                    | Description                                  |
   | ----------------------------------------------------------- |---------------------------------------------:|
@@ -24,7 +26,8 @@ To aid my visual learning I read related books and articles and approach the top
   | [Shopping Cart](https://codepen.io/ShinyVerse/pen/QxrbqQ)   | Simple shopping cart using Javascript, CSS   |
   | [Employee Builder](https://codepen.io/ShinyVerse/pen/dKLxaw)|   Experimenting with the decorator pattern   |
 
-# Soft-Skills #
+#Soft-Skills#
+***
 
 ## Efficient Communicator ##
 
@@ -33,3 +36,21 @@ Determined to understand and compassionate with explanations. A combination of t
 ## Inquisitive and Imaginative ##
 
 Deciding to discover how technology works has been one of the greatest choices I ever made. Uniting that with my natural creativity has brought a new sense of richness to my day to day.
+
+#Education#
+___
+
+**Maker's Academy (August 2018 - present)**
+- 16 week Bootcamp
+**Self-Study: Software Development  (2016 - continuous)**
+- Udemy, Treehouse, Freecodecamp, Books, Articles
+**University of Bedfordshire (2008 - 2011)**
+- Television Production BA(Hons), 2.1
+
+#Interests#
+***
+
+* Reading
+* Gaming
+* Travelling
+* Cooking & Baking
