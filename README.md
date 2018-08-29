@@ -6,7 +6,8 @@ To aid my visual learning I read related books and articles and approach the top
 
 ___
 
-#Tech Skills#
+Tech Skills
+=========
 
 - Javascript
 - React
@@ -19,7 +20,8 @@ ___
 
 ***
 
-#Projects#
+Projects
+=========
 
   | Projects                                                    | Description                                  |
   | ----------------------------------------------------------- |---------------------------------------------:|
@@ -60,7 +62,8 @@ Education
 
 ***
 
-#Interests
+Interests
+=========
 
 * Reading
 * Gaming
