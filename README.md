@@ -1,23 +1,26 @@
 # Laura Jackson #
 
-I am an enthusiastic self-taught Front-End Developer, currently a student at Maker's Academy, a 16 week software bootcamp, with aspirations to acquire a full stack skill set.
-
-To aid my visual learning I read related books and articles and approach the topics practically with building my own projects to help cement my understandings.
-
+Started off as a hobbyist while I cared for spinal injury patients, as my interest grew I began building more projects, Javascript being my area of interest. I have recently graduated from Maker's Academy, a 12 week software bootcamp.
 ___
 
-Tech Skills
+Languages
 =========
 
 - Javascript
 - React
-- CSS
+- CSS, Bootstrap
 - jQuery
 - Responsive Web Design
-- Bootstrap
 - HTML
 - Ruby
+- Ruby on Rails
 
+Testing Frameworks
+=========
+
+- Rspec
+- Jasmine
+- Cabybara
 
 ***
 
@@ -25,12 +28,12 @@ Projects
 =========
 
   | Projects                                                    | Description                                  | Technologies |
-  | ----------------------------------------------------------- |:--------------------------------------------:|--------------------------:|
-  | [As If](https://github.com/cristinaocanamanzano/wardrobe-app)| A wardrobe app to allow people to store their closet's contents online and make matches/outfits  |  Rails, Ruby, Javascript, Cabybara, rspec  |
-  | [Animal Gallery](https://codepen.io/ShinyVerse/pen/rKvvOj)  |  Interactive image gallery using CSS, HTML   |
-  | [Shopping Cart](https://codepen.io/ShinyVerse/pen/QxrbqQ)   | Simple shopping cart using Javascript, CSS   |
-  | [Employee Builder](https://codepen.io/ShinyVerse/pen/dKLxaw)|   Experimenting with the decorator pattern   |
-  | [Employee Builder](https://codepen.io/ShinyVerse/pen/dKLxaw)|   Experimenting with the decorator pattern   |
+  | ----------------------------------------------------------- |:--------------------------------------------:|:--------------------------:|
+  | [As If](https://github.com/cristinaocanamanzano/wardrobe-app)| A wardrobe app to allow people to store their closet's contents online and make matches/outfits  |  Rails, Ruby, Javascript, Cabybara, RSpec  |
+  | [TelaTalk](https://github.com/emmaalbury/Team-Tela)  |  A recreation of Facebook  | Rails, ruby, RSpec |
+  | [MakersBnB](https://github.com/ShinyVerse/MakersBnB)  |  A recreation of AirBnB  | Javascript, MongoDB, Jasmine, Node.js |
+  | [Tamagotchi](https://github.com/ShinyVerse/Tamagotchi)  |  Created a living Tamagotchi  | Javascript, Jasmine, Node.js |
+  | [Employee Builder](https://codepen.io/ShinyVerse/pen/dKLxaw)| Experimenting with the decorator pattern | Javascript |
 
   ***
 
@@ -43,16 +46,16 @@ Soft-Skills
 
 ## Inquisitive and Imaginative ##
 
-  Deciding to discover how technology works has been one of the greatest choices I ever made. Uniting that with my natural creativity has brought a new sense of richness to my day to day.
+  Deciding to understand how technology works has been one of the best choices I have ever made. Uniting that with my natural creativity has opened a door to allow me to make what I think of.
 
 ___
 
 Education
 =========
 
-**Maker's Academy (August 2018 - present)**
+**Maker's Academy (August 2018 - November 2018)**
 
-  - 16 week Bootcamp
+  - 12 week Bootcamp
 
 **Self-Study: Software Development (2016 - continuous)**
 
