@@ -29,7 +29,7 @@ Projects
 
   | Projects                                                    | Description                                  | Technologies |
   | ----------------------------------------------------------- |:--------------------------------------------:|:--------------------------:|
-  | [As If](https://github.com/cristinaocanamanzano/wardrobe-app)| A wardrobe app to allow people to store their closet's contents online and make matches/outfits  |  Rails, Ruby, Javascript, Cabybara, RSpec  |
+  | [As If](https://github.com/cristinaocanamanzano/wardrobe-app)| A wardrobe app to allow people to store their closet's contents online and make matches/outfits  |  Rails, Ruby, Javascript, jQuery, Cabybara, RSpec  |
   | [TelaTalk](https://github.com/emmaalbury/Team-Tela)  |  A recreation of Facebook  | Rails, ruby, RSpec |
   | [MakersBnB](https://github.com/ShinyVerse/MakersBnB)  |  A recreation of AirBnB  | Javascript, MongoDB, Jasmine, Node.js |
   | [Tamagotchi](https://github.com/ShinyVerse/Tamagotchi)  |  Created a living Tamagotchi  | Javascript, Jasmine, Node.js |
