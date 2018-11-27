@@ -18,16 +18,18 @@ Tech Skills
 - HTML
 - Ruby
 
+
 ***
 
 Projects
 =========
 
-  | Projects                                                    | Description                                  |
-  | ----------------------------------------------------------- |:--------------------------------------------:|
-  | [Study Buddy](https://codepen.io/ShinyVerse/pen/WyLVyX )    |      Use of BEM Methodology with react       |
+  | Projects                                                    | Description                                  | Technologies |
+  | ----------------------------------------------------------- |:--------------------------------------------:|--------------------------:|
+  | [As If](https://github.com/cristinaocanamanzano/wardrobe-app)| A wardrobe app to allow people to store their closet's contents online and make matches/outfits  |  Rails, Ruby, Javascript, Cabybara, rspec  |
   | [Animal Gallery](https://codepen.io/ShinyVerse/pen/rKvvOj)  |  Interactive image gallery using CSS, HTML   |
   | [Shopping Cart](https://codepen.io/ShinyVerse/pen/QxrbqQ)   | Simple shopping cart using Javascript, CSS   |
+  | [Employee Builder](https://codepen.io/ShinyVerse/pen/dKLxaw)|   Experimenting with the decorator pattern   |
   | [Employee Builder](https://codepen.io/ShinyVerse/pen/dKLxaw)|   Experimenting with the decorator pattern   |
 
   ***
