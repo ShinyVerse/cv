@@ -1,7 +1,7 @@
 # Laura Jackson #
 
- | [Projects](#projects)| [Interests](#int)| Technologies |
- | :-------:|:--------:|:-------:|
+ | [Projects](#projects)| [Skills](#skills) |[Background](#bg)|  [Education](#ed)| [Interests](#int)| 
+ | :-------:|:--------:|:-------:|:-------:|:-------:|
 
 A life in three paragraphs
 =========
@@ -26,6 +26,8 @@ ___
 
   ***
 
+[Skills](#skills)
+
 Languages and testing frameworks
 =========
 
@@ -37,7 +39,7 @@ Languages and testing frameworks
 
 ***
 
-[Soft-Skills](#soft-skills)
+Soft-Skills
 ===========
 
 ## Efficient Communicator ##
