@@ -1,6 +1,6 @@
 # Laura Jackson #
 
- | [Projects](#projects)| [Skills](#skills) |[Background](#bg)|  [Education](#ed)| [Interests](#int)| 
+ | [Projects](#projects)| [Skills](#skills) |[Background](#bg)|  [Education](#ed)| [Interests](#int)|
  | :-------:|:--------:|:-------:|:-------:|:-------:|
 
 A life in three paragraphs
@@ -27,6 +27,7 @@ ___
   ***
 
 [Skills](#skills)
+=========
 
 Languages and testing frameworks
 =========
