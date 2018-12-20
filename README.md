@@ -113,6 +113,6 @@ Interests
 
 * Web Development - Med-Tech groupie and idea fountain
 * Reading - A self-help addict that devours dystopian worlds
-* Gaming - Tank/Support Main. Overwatch junkie.
+* Gaming - Tank/Support main. Overwatch junkie.
 * Travelling - Keen diver with a desire to rid my fear of water, story-collector, foreign cinema amateur judge.
 * Cooking & Baking - To see some baked creations go [here](https://www.instagram.com/supershinyverse/)
