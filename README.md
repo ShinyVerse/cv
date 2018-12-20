@@ -1,6 +1,13 @@
 # Laura Jackson #
 
-Started off as a hobbyist while I cared for spinal injury patients, as my interest grew I began building more projects, Javascript being my area of interest. I have recently graduated from Maker's Academy, a 12 week software bootcamp.
+A Little about me
+=========
+
+Enjoying the visuals of life I was always drawn to creative pursuits. During my childhood I made my own comics (harassing my brother to give me character ideas to bring to life). My teen years attracted to media, I still dabbled with drawing and art, but my sights were now on motion. I shot mini films in my free time (I'll save myself the embarrassment by not including links here) and went to university to create cool things with others who loved filming. Though, I soon fell out of love with the "take-all, give-little back" culture that enveloped the media industry. A strong urge to give had grown inside me.
+
+This, naturally brought me to care. I could enrich people's day-to-day while learning about the human condition. This was fun, I got to meet a ton of people and when in a supervisor role I could use my management skills I'd gained during university. I trained in dementia care, learning disabilities and spinal injuries. I still wanted more. Helping one was good, but helping more at once seemed to be the answer. I turned to technology.
+
+Now, I was a modern day cave-person with a fearful fascination of digital magic. I could use the basics of Facebook. The spark of understanding technology hit me out of nowhere and I enjoy the being a testament that if I can learn software, anyone can. I adore the culture! A horde of people wanting to make something from nothing and enhance life around them? Yes please, thank you very much! It seems to be the opposite of all that I had experienced previously. I built little projects at first, teaching myself all that I could, when I decided to work on turning this hobby into my future I was honoured to be offered a fellowship spot at Maker's. I have recently graduated and currently have the role of assistant coach.
 ___
 
 Projects
@@ -84,7 +91,7 @@ I started as a hobbyist learning HTML, CSS and Javascript. Tools I used were:
 
 **University of Bedfordshire - Television Production (BA(Hons), 2.1) (2008 - 2011)**
 
-On reflection this wasn't so different to software development. To create a finished project we'd follow the process of planning stage, setup, deployment. Planning was storyboarding, recce areas, create scripts for both team and machines.  Setup - lighting, cameras and director's gallery. Deployment - editing and formatting for different uses.
+On reflection this wasn't so different to software development. To create a finished project we'd follow the process of planning stage, setup, deployment. Planning was storyboarding, recce areas, create scripts for both team and machines. Setup - lighting, cameras and director's gallery. Deployment - editing and formatting for different uses.
 
 Roles I carried out during this time:
 
@@ -97,8 +104,8 @@ Roles I carried out during this time:
 Interests
 =========
 
-* Web Development
-* Reading
-* Gaming
-* Travelling
-* Cooking & Baking
+* Web Development - Med-Tech groupie and idea fountain
+* Reading - A self-help addict that devours dystopian worlds
+* Gaming - Tank/Support Main. Overwatch junkie.
+* Travelling - Keen diver with a desire to rid my fear of water, story-collector, foreign cinema amateur judge.
+* Cooking & Baking - To see some baked creations go [here](https://www.instagram.com/supershinyverse/) 
