@@ -19,16 +19,14 @@ Projects
 Languages and testing frameworks
 =========
 
-| Languages        |  Testing Frameworks  |
+| Languages        |  Testing Frameworks  |                                               | Database |
+                                                                                          | :-----------------: |
+                                                                                          | PostgresSQL |
+                                                                                          | MongoDB |
 | :--------------: | :-------------------:|
 | Javascript ( ES6, React, jQuery )    |  Jest, Enzyme, Jasmine  |
 | Ruby & Ruby on Rails                 |  Rspec & Cabybara, Selenium, Webdriver     |
 | HTML & CSS                           |        |
-
-| Database |
-| :-----------------: |
-| PostgresSQL |
-| MongoDB |
 
 ***
 
