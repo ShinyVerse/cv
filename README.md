@@ -22,7 +22,7 @@ Languages and testing frameworks
 | Languages        |  Testing Frameworks  | Database |
 | :--------------: | :-------------------:| :-------------------:|
 | Javascript ( ES6, React, jQuery, Node.js ) |  Jest, Enzyme, Jasmine  | PostgresSQL |
-| Ruby & Ruby on Rails |  Rspec & Cabybara, Selenium, Webdriver | MongoDB |
+| Ruby, Sinatra & Ruby on Rails |  Rspec & Cabybara, Selenium-Webdriver | MongoDB |
 | HTML & CSS |        |
 
 ***
@@ -69,15 +69,28 @@ Education
 
 **Maker's Academy (August 2018 - November 2018)**
 
-  - 12 week Bootcamp
+A 12 week software bootcamp. While here I learnt and worked with:
+
+- Agile development, XP values and git flow.
+- TDD process, OOD principles, MVC
+- Languages used during here all mentioned above.
+- Team work and software improvement through peer and coach code reviews.
 
 **Self-Study: Software Development (2016 - continuous)**
 
-  - Udemy, Treehouse, Freecodecamp, Books, Articles
+I started as a hobbyist learning HTML, CSS and Javascript. Tools I used were:
 
-**University of Bedfordshire (2008 - 2011)**
+  - Udemy, Treehouse, Freecodecamp, Books, Articles.
 
-  - Television Production BA(Hons), 2.1
+**University of Bedfordshire - Television Production (BA(Hons), 2.1) (2008 - 2011)**
+
+On reflection this wasn't so different to software development. To create a finished project we'd follow the process of planning stage, setup, deployment. Planning was storyboarding, recce areas, create scripts for both team and machines.  Setup - lighting, cameras and director's gallery. Deployment - editing and formatting for different uses.
+
+Roles I carried out during this time:
+
+- During the first half of the course I favoured editing, set design and lighting. I loved the behind the scenes work. I dabbled with camera work, usually on-site in studio.
+
+- Second half I mainly fell into the roles of Project Management. Making sure the schedule ran, gathered volunteers, oversaw team co-operation, kept communication open when issues arose, liaised with clients, recced areas and handled budget.
 
 ***
 
