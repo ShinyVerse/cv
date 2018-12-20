@@ -1,6 +1,9 @@
 # Laura Jackson #
 
-A Little about me
+ | [Projects](#projects)| [Interests](#int)| Technologies |
+ | :-------:|:--------:|:-------:|
+
+A life in three paragraphs
 =========
 
 Enjoying the visuals of life I was always drawn to creative pursuits. During my childhood I made my own comics (harassing my brother to give me character ideas to bring to life). My teen years attracted to media, I still dabbled with drawing and art, but my sights were now on motion. I shot mini films in my free time (I'll save myself the embarrassment by not including links here) and went to university to create cool things with others who loved filming. Though, I soon fell out of love with the "take-all, give-little back" culture that enveloped the media industry. A strong urge to give had grown inside me.
@@ -10,7 +13,7 @@ This, naturally brought me to care. I could enrich people's day-to-day while lea
 Now, I was a modern day cave-person with a fearful fascination of digital magic. I could use the basics of Facebook. The spark of understanding technology hit me out of nowhere and I enjoy the being a testament that if I can learn software, anyone can. I adore the culture! A horde of people wanting to make something from nothing and enhance life around them? Yes please, thank you very much! It seems to be the opposite of all that I had experienced previously. I built little projects at first, teaching myself all that I could, when I decided to work on turning this hobby into my future I was honoured to be offered a fellowship spot at Maker's. I have recently graduated and currently have the role of assistant coach.
 ___
 
-Projects
+[Projects](#projects)
 =========
 
   | Projects                                                    | Description                                  | Technologies |
@@ -34,7 +37,7 @@ Languages and testing frameworks
 
 ***
 
-Soft-Skills
+[Soft-Skills](#soft-skills)
 ===========
 
 ## Efficient Communicator ##
@@ -46,7 +49,8 @@ Soft-Skills
   Deciding to understand how technology works has been one of the best choices I have ever made. Uniting that with my natural creativity has opened a door to allow me to make what I think of.
 
 ___
-Background
+
+[Background](#bg)
 =========
 **Makers Academy - Assistant Coach (November 2018 - Present)**
 
@@ -71,7 +75,7 @@ Upon finishing University a couple of my peers and I teamed up with our lecturer
 
 ___
 
-Education
+[Education](#ed)
 =========
 
 **Maker's Academy (August 2018 - November 2018)**
@@ -101,11 +105,11 @@ Roles I carried out during this time:
 
 ***
 
-Interests
+[Interests](#int)
 =========
 
 * Web Development - Med-Tech groupie and idea fountain
 * Reading - A self-help addict that devours dystopian worlds
 * Gaming - Tank/Support Main. Overwatch junkie.
 * Travelling - Keen diver with a desire to rid my fear of water, story-collector, foreign cinema amateur judge.
-* Cooking & Baking - To see some baked creations go [here](https://www.instagram.com/supershinyverse/) 
+* Cooking & Baking - To see some baked creations go [here](https://www.instagram.com/supershinyverse/)
