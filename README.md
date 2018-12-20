@@ -1,6 +1,6 @@
 # Laura Jackson #
 
- | [Projects](#projects)| [Skills](#skills) | [Background](#background) | [Education](#Education) | [Interests](#int) |
+ | [Projects](#Projects)| [Skills](#Skills) | [Background](#Background) | [Education](#Education) | [Interests](#Interests) |
  | :-------:|:--------:|:-------:|:-------:|:-------:|
 
 A life in three paragraphs
@@ -13,7 +13,7 @@ This, naturally brought me to care. I could enrich people's day-to-day while lea
 Now, I was a modern day cave-person with a fearful fascination of digital magic. I could use the basics of Facebook. The spark of understanding technology hit me out of nowhere and I enjoy the being a testament that if I can learn software, anyone can. I adore the culture! A horde of people wanting to make something from nothing and enhance life around them? Yes please, thank you very much! It seems to be the opposite of all that I had experienced previously. I built little projects at first, teaching myself all that I could, when I decided to work on turning this hobby into my future I was honoured to be offered a fellowship spot at Maker's. I have recently graduated and currently have the role of assistant coach.
 ___
 
-[Projects](#projects)
+Projects
 =========
 
   | Projects                                                    | Description                                  | Technologies |
@@ -26,7 +26,7 @@ ___
 
   ***
 
-[Skills](#skills)
+Skills
 =========
 
 Languages and testing frameworks
@@ -53,7 +53,7 @@ Soft-Skills
 
 ___
 
-[Background](#background)
+Background
 =========
 **Makers Academy - Assistant Coach (November 2018 - Present)**
 
@@ -108,7 +108,7 @@ Roles I carried out during this time:
 
 ***
 
-[Interests](#int)
+Interests
 =========
 
 * Web Development - Med-Tech groupie and idea fountain
