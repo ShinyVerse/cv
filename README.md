@@ -1,6 +1,6 @@
 # Laura Jackson #
 
- | [Projects](#projects)| [Skills](#skills) | [Background](#bg) | [Education](#ed) | [Interests](#int) |
+ | [Projects](#projects)| [Skills](#skills) | [Background](#background) | [Education](#Education) | [Interests](#int) |
  | :-------:|:--------:|:-------:|:-------:|:-------:|
 
 A life in three paragraphs
@@ -53,7 +53,7 @@ Soft-Skills
 
 ___
 
-[Background](#bg)
+[Background](#background)
 =========
 **Makers Academy - Assistant Coach (November 2018 - Present)**
 
@@ -78,7 +78,7 @@ Upon finishing University a couple of my peers and I teamed up with our lecturer
 
 ___
 
-[Education](#ed)
+Education
 =========
 
 **Maker's Academy (August 2018 - November 2018)**
